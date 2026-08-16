@@ -1,0 +1,8 @@
+{
+  "name": "실무 투입 우선 D-30",
+  "short_name": "D-30 학습",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0b1220"
+}
